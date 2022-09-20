@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RunTimePremission</string>
+
+    <!-- TextViews string  -->
+    <string name="welcome_back_log_in">Welcome Back! Log in</string>
+    <string name="enter_registered_email_username_password">Enter registered email/ Username Password.</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_continue_with">Or Continue with</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+
+    <!-- EditTextViews string  -->
+
+    <string name="editext_hint_password">Password</string>
+    <string name="editext_hint_type_here">Type here</string>
+
+    <!-- Buttons  -->
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+
+
+</resources>
